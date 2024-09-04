@@ -1,4 +1,14 @@
 body {
-    color:green;
-    background: violet;
+    color:pink;
+    background: rosybrown;
     }
+
+    header {
+        border: solid 5px white;
+        padding: 10px;
+        font-size: 35px;
+    }
+
+section {
+    background: rgb(126, 13, 101);
+}
