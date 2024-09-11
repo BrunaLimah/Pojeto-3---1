@@ -2,7 +2,7 @@ body {
     color: pink;
     background: rosybrown;
     font-family: "Fascinate Inline", system-ui;
-    }
+}
 
 header {
     border: solid 5px white;
@@ -20,4 +20,12 @@ section {
 
 .chamada-texto {
     margin-right: 5%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
 }
